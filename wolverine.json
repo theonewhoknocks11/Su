@@ -1,10 +1,10 @@
 {
-    "name": "Vision",
-    "description": "A theme made by Vodka Martini",
+    "name": "wolverine",
+    "description": "A theme made by Rantan",
     "authors": [
         {
-            "name": "Vodka Martini",
-            "id": "1068030255455015013"
+            "name": "Wolverine",
+            "id": "1068030255455015011"
         }
     ],
   "semanticColors": {
@@ -326,7 +326,7 @@
 
 "background": {
     "alpha": 5,
-    "url": "https://github.com/VodkaXMartini/images/blob/main/Vision3.jpg?raw=true"
+    "url": "https://github.com/theonewhoknocks11/Su/blob/main/wolverine.jpg?raw=true"
 },
 "plus":{
    "version":"0",
